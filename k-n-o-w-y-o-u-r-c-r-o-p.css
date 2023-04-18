@@ -1,0 +1,706 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+
+.india-span1 {
+  text-decoration: none;
+  color: green;
+}
+
+
+.menubar{
+  display: flex;
+  text-decoration: none;
+  color: green;
+
+  }
+
+  .menubarr{
+  
+    text-decoration: none;
+    color: green;
+    }
+    .home-crop-information-governme {
+      position: absolute;
+      top: 190px;
+      left: 2px;
+      font-size: 25px;
+      letter-spacing: 0.2px;
+      line-height: 24px;
+      text-transform: uppercase;
+      color: rgb(33, 104, 0);
+      text-align: center;
+      width: 1347px;
+      height: 69px;
+      mix-blend-mode: darken;
+      display: flex;
+      background-color: rgb(207 248 226);
+      padding-left: 95px;
+    }
+.image-4-div,
+.rectangle-icon {
+  position: absolute;
+  top: 575px;
+  left: 130px;
+  border-radius: 52px;
+  width: 590px;
+  height: 386px;
+}
+.rectangle-icon {
+  top: 302px;
+  left: 436px;
+  border-radius: 28px;
+  width: 574px;
+  height: 116px;
+  mix-blend-mode: multiply;
+}
+.h2-section-title-1-b {
+  position: absolute;
+  top: 318px;
+  left: 469px;
+  font-size: 45px;
+  letter-spacing: 0.2px;
+  line-height: 80px;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #252b42;
+  text-align: left;
+  width: 508px;
+  height: 138px;
+}
+.rectangle-icon1 {
+  position: absolute;
+  top: 181px;
+  left: 31px;
+  width: 1440px;
+  height: 70px;
+  mix-blend-mode: darken;
+}
+.container-div,
+.filter-div {
+  position: absolute;
+  overflow: hidden;
+}
+.filter-div {
+  height: calc(100% - 721px);
+  width: 100%;
+  top: -73px;
+  right: 22px;
+  bottom: 794px;
+  left: -22px;
+  background: linear-gradient(
+    89.83deg,
+    #fff,
+    #fff 0.01%,
+    rgba(255, 255, 255, 0)
+  );
+}
+.container-div {
+  top: 1748px;
+  left: calc(50% - 493px);
+  width: 1050px;
+}
+.navbar-brand-div {
+  position: absolute;
+  top: calc(50% - 29.5px);
+  left: calc(50% - 551px);
+  width: 213px;
+  height: 59px;
+  overflow: hidden;
+}
+.navbar-toggler-icon-div {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 12px);
+  width: 24px;
+  height: 13.71px;
+}
+.navbar-toggler-div {
+  position: absolute;
+  top: 39px;
+  left: 1298px;
+  width: 24px;
+  height: 13.71px;
+  overflow: hidden;
+}
+.btn-text {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 22.5px);
+  letter-spacing: 0.2px;
+  line-height: 22px;
+  display: inline-block;
+}
+.a-div,
+.nav-item-div {
+  width: 41px;
+  height: 22px;
+  overflow: hidden;
+}
+.a-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.nav-item-div {
+  position: relative;
+  flex-shrink: 0;
+}
+.btn-text1 {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 22px;
+  display: inline-block;
+}
+.icn-arrow-right-icn-xs {
+  position: relative;
+  width: 12px;
+  height: 10px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.buttonbtnprimary-color-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #2f9000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 25px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+  HEIGHT: 53PX;
+}
+.nav-item-div1 {
+  position: relative;
+  width: 214px;
+  height: 52px;
+  flex-shrink: 0;
+  overflow: hidden;
+  text-align: left;
+  color: #fff;
+}
+.navbar-nav-div {
+  position: absolute;
+  top: calc(50% - 26px);
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 45px;
+  cursor: pointer;
+}
+.collapse-navbar-collapse-div {
+  position: absolute;
+  top: 16px;
+  left: calc(50% - 297px);
+  width: 815px;
+  height: 58px;
+  overflow: hidden;
+}
+.india-span1 {
+  text-decoration: none;
+  color: green;
+}
+.farm-india-b2 {
+  position: absolute;
+  top: calc(50% - 26.5px);
+  left: calc(50% - 661px);
+  font-size: 51px;
+  letter-spacing: 0.2px;
+  line-height: 50px;
+  display: inline-block;
+  text-align: left;
+  width: 348px;
+  height: 46px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: #000;
+  
+}
+
+
+.container-div1,
+.navbar-style-2-navbar-light-div {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 635px);
+  width: 1322px;
+  height: 91px;
+  overflow: hidden;
+}
+.container-div1 {
+  top: 13px;
+  left: calc(50% - 665px);
+  text-align: right;
+  font-size: 14px;
+  color: #2f9000;
+}
+.rectangle-div {
+  position: absolute;
+  top: 86px;
+  left: 804px;
+  background-color: #912df5;
+  width: 535px;
+  height: 300px;
+}
+.main-content-div {
+  width: 1044px;
+  overflow: hidden;
+}
+.rectangle-div1,
+.row-div {
+  position: absolute;
+  margin: 0 !important;
+  flex-shrink: 0;
+}
+.row-div {
+  top: 831px;
+  left: calc(50% - 697px);
+  width: 1044px;
+  height: 165px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 0;
+}
+.rectangle-div1 {
+  top: 550px;
+  left: 199px;
+  border-radius: 20px;
+  background-color: #267300;
+  width: 229px;
+  height: 58px;
+  z-index: 1;
+}
+.text-b {
+  position: relative;
+  display: inline-block;
+  color: #000;
+  z-index: 2;
+}
+.watch-now-b {
+  top: 564px;
+  left: 239px;
+  display: inline-block;
+  z-index: 3;
+}
+.rectangle-div2,
+.watch-now-b,
+.watch-now-b1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.rectangle-div2 {
+  top: 558px;
+  left: 937px;
+  border-radius: 20px;
+  background-color: #267300;
+  width: 229px;
+  height: 58px;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.watch-now-b1 {
+  top: 572px;
+  left: 977px;
+  display: inline-block;
+  z-index: 5;
+}
+.screenshot-2022-09-11-at-300 {
+  position: absolute;
+  margin: 0 !important;
+  top: 155px;
+  left: 756px;
+  width: 555px;
+  height: 309px;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 6;
+}
+.container-div2 {
+  position: absolute;
+  top: -73px;
+  left: calc(50% - 688.5px);
+  width: 1512px;
+  height: 644px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 75px 0 160px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+  color: #fff;
+}
+.rectangle-div3 {
+  position: absolute;
+  top: 1002px;
+  left: 230px;
+  border-radius: 20px;
+  background-color: #267300;
+  width: 229px;
+  height: 58px;
+}
+.watch-now-b2 {
+  position: absolute;
+  top: 1016px;
+  left: 270px;
+  display: inline-block;
+  color: #fff;
+}
+.rectangle-div4 {
+  position: absolute;
+  top: 1525px;
+  left: 230px;
+  border-radius: 20px;
+  background-color: #267300;
+  width: 229px;
+  height: 58px;
+}
+.watch-now-b3 {
+  position: absolute;
+  top: 1539px;
+  left: 270px;
+  display: inline-block;
+  color: #fff;
+}
+.rectangle-div5 {
+  position: absolute;
+  top: 1525px;
+  left: 968px;
+  border-radius: 20px;
+  background-color: #267300;
+  width: 229px;
+  height: 58px;
+}
+.watch-now-b4 {
+  position: absolute;
+  top: 1539px;
+  left: 1008px;
+  display: inline-block;
+  color: #fff;
+}
+.rectangle-div6 {
+  position: absolute;
+  top: 987px;
+  left: 968px;
+  border-radius: 20px;
+  background-color: #267300;
+  width: 229px;
+  height: 58px;
+}
+.watch-now-b5 {
+  position: absolute;
+  top: 1001px;
+  left: 1008px;
+  display: inline-block;
+  color: #fff;
+}
+.icbaseline-mood-bad-div {
+  position: absolute;
+  top: 639px;
+  left: 1291px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.main-content-div1 {
+  position: absolute;
+  top: calc(50% - 22.5px);
+  left: calc(50% - 566.5px);
+  height: 60px;
+  overflow: hidden;
+}
+.complete-guide-for-organic-pes {
+  position: absolute;
+  top: 386px;
+  left: 99px;
+  display: flex;
+  align-items: center;
+  width: 492px;
+  height: 108px;
+}
+.rectangle-div7 {
+  position: absolute;
+  top: 86px;
+  left: 99px;
+  background-color: #912df5;
+  width: 535px;
+  height: 300px;
+}
+.improper-land-use,
+.pesticides-good-or-bad {
+  position: absolute;
+  top: 369px;
+  left: 804px;
+  display: flex;
+  align-items: center;
+  width: 492px;
+  height: 108px;
+}
+.improper-land-use {
+  top: 879px;
+  left: 102px;
+}
+.rectangle-div8 {
+  position: absolute;
+  top: 594px;
+  left: 99px;
+  background-color: #912df5;
+  width: 535px;
+  height: 300px;
+}
+.biodiversity-in-agriculture {
+  position: absolute;
+  top: 1387px;
+  left: 90px;
+  display: flex;
+  align-items: center;
+  width: 492px;
+  height: 108px;
+}
+.rectangle-div9 {
+  position: absolute;
+  top: 1111px;
+  left: 99px;
+  background-color: #912df5;
+  width: 535px;
+  height: 300px;
+}
+.agriculture-and-climate {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.agriculture-and-climate-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.agriculture-and-climate-change {
+  position: absolute;
+  top: 1411px;
+  left: 804px;
+  display: flex;
+  align-items: center;
+  width: 492px;
+  height: 108px;
+}
+.rectangle-div10 {
+  position: absolute;
+  top: 1111px;
+  left: 804px;
+  background-color: #912df5;
+  width: 535px;
+  height: 300px;
+}
+.what-is-soil-erosion-and-conse {
+  position: absolute;
+  top: 894px;
+  left: 804px;
+  display: flex;
+  align-items: center;
+  width: 492px;
+  height: 108px;
+}
+.rectangle-div11 {
+  position: absolute;
+  top: 594px;
+  left: 804px;
+  background-color: #912df5;
+  width: 535px;
+  height: 300px;
+}
+.subtitles-div {
+  position: absolute;
+  top: 450px;
+  left: 124px;
+  font-size: 10px;
+  line-height: 150%;
+  font-weight: 500;
+  color: #999;
+  display: inline-block;
+  width: 116px;
+  height: 44px;
+}
+.screenshot-2022-09-11-at-301,
+.screenshot-2022-09-11-at-302 {
+  position: absolute;
+  top: 594px;
+  left: 99px;
+  width: 535px;
+  height: 300px;
+  object-fit: cover;
+}
+.screenshot-2022-09-11-at-302 {
+  top: 1111px;
+  left: 804px;
+  height: 294px;
+}
+.screenshot-2022-09-11-at-3011,
+.screenshot-2022-09-11-at-303 {
+  position: absolute;
+  top: 1111px;
+  left: 90px;
+  width: 544px;
+  height: 300px;
+  object-fit: cover;
+}
+.screenshot-2022-09-11-at-3011 {
+  top: 594px;
+  left: 804px;
+  width: 538px;
+}
+.h3-b {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 32px;
+  display: inline-block;
+}
+.lazy-dog-p {
+  margin: 0;
+}
+.paragraph-div {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  color: #737373;
+  display: inline-block;
+}
+.facebook-icon,
+.twitter-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.twitter-icon {
+  height: 19.76px;
+}
+.col-md-3-div,
+.social-media-div {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.col-md-3-div {
+  width: 238px;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.link-b {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 24px;
+  display: inline-block;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  color: #737373;
+}
+.col-md-3-div1,
+.col-md-3-div2 {
+  flex-shrink: 0;
+  overflow: hidden;
+  flex-direction: column;
+  gap: 20px;
+}
+.col-md-3-div1 {
+  width: 241px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.col-md-3-div2 {
+  width: 240px;
+}
+.col-md-3-div2,
+.col-md-3-div3,
+.row-div1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.col-md-3-div3 {
+  overflow: hidden;
+  flex-direction: column;
+  gap: 20px;
+}
+.row-div1 {
+  top: 1717px;
+  left: calc(50% - 489.5px);
+  width: 1046px;
+  flex-direction: row;
+  gap: 30px;
+  font-size: 30px;
+  font-family: Montserrat;
+}
+.background-div,
+.layout-1-div,
+.row-div1 {
+  position: absolute;
+  overflow: hidden;
+}
+.layout-1-div {
+  top: 409px;
+  left: 1px;
+  background-color: #f5f5f5;
+  width: 1439px;
+  height: 1931px;
+  text-align: left;
+  color: #000;
+  font-family: Roboto;
+}
+.background-div {
+  height: calc(100% - 903px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 903px;
+  left: 0;
+}
+.header-1-div,
+.know-your-crop {
+  position: relative;
+  overflow: hidden;
+}
+.header-1-div {
+  background-color: #fafafa;
+  width: 1440px;
+  height: 3264px;
+  flex-shrink: 0;
+}
+.know-your-crop {
+  background-color: #fff;
+  width: 100%;
+  height: 2340px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 25px;
+  color: #216800;
+  font-family: Montserrat;
+}

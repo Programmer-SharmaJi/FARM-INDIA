@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>farm india -Signin/Signup</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="login-page.css">
+
+</head>
+
+<body>
+    <div class="container" id="container">
+        <!-- <div class="form-container sign-up-container">
+            <form action="#">
+                <h1>Create Account</h1>
+                <div class="social-container">
+                    <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+                    <a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+                <span>or use your email for registration</span>
+                <input type="text" placeholder="Name" />
+                <input type="email" placeholder="Email" />
+                <input type="password" placeholder="Password" />
+                <button>Sign Up</button>
+            </form>
+        </div> -->
+        <div class="form-container sign-in-container">
+            <form action="/index.html">
+                <h1>Farm India Website</h1>
+                <div class="social-container">
+                    <a href="https://www.facebook.com/" class="social"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://accounts.google.com/v3/signin/identifier?dsh=S-1258058554%3A1679045940970180&continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com%2F&ifkv=AWnogHf5VbxKlqyukES4pTWdq2cKI523x2Y43p7uyyHXYlp5L3DZRVCHnLZZQccM9aP_foxQhBqSjQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="social"><i class="fab fa-google-plus-g"></i></a>
+                    <a href="https://www.linkedin.com/" class="social"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+                <input type="text" id="username" name="username" placeholder="username" />
+                <input type="email" id="email" name="email" placeholder="E-mail" />
+                <input type="password" id="password" name="password" placeholder="password" />
+                <!-- <a href="#">Forgot your password?</a> -->
+                
+                <!-- <input >Submit</input> -->
+                <td>
+                    
+                    <a href="/index.html">
+                    <input type="submit" id="signup" name="signup_submit" value="Submit" style="background:green; color: white;"></a>
+                    <button type="submit" class="signupbtn">Sign Up</button>
+                </td>
+                
+
+                <!-- <button onclick="onclick1()" type="button" id="signup" name="signup_submit" value="sign up" style="background:green; color: white;">Submit</button> -->
+                <!-- <button>Sign In</button> -->
+            </form>
+        </div>
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-left">
+                    <h1>Welcome Back!</h1>
+                    <p>To keep connected with us please login with your personal info</p><br>
+                    <button class="ghost" id="signIn">Sign In</button>
+                </div>
+                <div class="overlay-panel overlay-right">
+                    <h1><br> Grosery <br> Website</h1><br>
+                    <td>
+                        <div class="arrow bounce">
+                            <a class="fa fa-arrow-down fa-2x" href="https://f4rmindia.wixsite.com/farm-india"></a>
+                          </div>
+                        <a href="https://f4rmindia.wixsite.com/farm-india">
+                        <input type="Submit" id="signup" name="signup_submit" value="Click Me" 
+                        style="background: rgb(255, 255, 255);color: rgb(1, 2, 1);width: 93px;height: 29px;"></a>
+                    </td>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
+        import { getDatabase } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-database.js";
+        import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-auth.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+          apiKey: "AIzaSyDNVfPJsqpni2Ijo3lPvB799Ifr5WpJhB8",
+          authDomain: "authenticator-8ff13.firebaseapp.com",
+          projectId: "authenticator-8ff13",
+          storageBucket: "authenticator-8ff13.appspot.com",
+          messagingSenderId: "1070581836258",
+          appId: "1:1070581836258:web:448f20cc7801622afaf1bb"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const database = getDatabase(app);
+        const auth = getAuth();
+        signup.addEventListener('click',(e) => {
+            e.preventDefault()
+    
+    var password = document.getElementById('password').value;
+    var username = document.getElementById('username').value;
+    var email = document.getElementById('email').value;
+    
+    createUserWithEmailAndPassword(auth, email, password)
+      .then((userCredential) => {
+        // Signed in 
+        const user = userCredential.user;
+    
+        // set(ref(database, 'users/' + user.uid),{
+        //     username: username,
+        //     email: email
+        // })
+        alert('user created successfully');
+      })
+      .catch((error) => {
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        // ..
+        // alert(errorMessage);
+      });
+    });
+    
+    function onclick1(){
+        // document.getElementById("signup")
+        location.replace("/index.html");
+    }
+      </script>
+</body>
+</html>
+
+<script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-app.js";
+    import { getDatabase } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-database.js";
+    // import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-analytics.js";
+    import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.14.0/firebase-auth.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const configuration = {
+        apiKey: "AIzaSyCGpXypA0edr2kDQ1A86cuapqJNEFziluA",
+        authDomain: "farm-india-dc1fd.firebaseapp.com",
+        projectId: "farm-india-dc1fd",
+        storageBucket: "farm-india-dc1fd.appspot.com",
+        messagingSenderId: "488592005302",
+        appId: "1:488592005302:web:237f4df3c9db54b7716e17",
+        measurementId: "G-7CDYVEBYD9"
+    };
+
+    // Initialize Firebase
+    const ap = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+    const databas = getDatabase(app);
+    const aut = getAuth();
+</script>
+

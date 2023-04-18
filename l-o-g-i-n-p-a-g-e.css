@@ -1,0 +1,190 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.image-18-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 900px;
+  object-fit: cover;
+}
+.rectangle-div12,
+.rectangle-div13 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.rectangle-div12 {
+  top: 76px;
+  left: 492px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid #000;
+  width: 652px;
+  height: 752px;
+}
+.rectangle-div13 {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  width: 355.22px;
+  height: 52.46px;
+}
+.user-icon,
+.username-div1 {
+  position: absolute;
+  top: 15.16px;
+  height: 23.32px;
+}
+.username-div1 {
+  left: 60.39px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 300;
+  display: inline-block;
+  width: 99.46px;
+}
+.user-icon {
+  left: 14.21px;
+  width: 23.68px;
+  overflow: hidden;
+}
+.password-div1,
+.username-div {
+  position: absolute;
+  top: 50.03px;
+  left: 0;
+  width: 355.22px;
+  height: 52.46px;
+}
+.password-div1 {
+  top: 15.16px;
+  left: 60.39px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 300;
+  display: inline-block;
+  width: 100.64px;
+  height: 23.32px;
+}
+.lock-icon {
+  position: absolute;
+  height: 44.44%;
+  width: 6.67%;
+  top: 28.89%;
+  right: 89.33%;
+  bottom: 26.67%;
+  left: 4%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: hidden;
+}
+.password-div,
+.rectangle-div15 {
+  position: absolute;
+  top: 125.8px;
+  left: 0;
+  width: 355.22px;
+  height: 52.46px;
+}
+.rectangle-div15 {
+  top: 228.4px;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.farm-india-b1,
+.login-div {
+  position: absolute;
+  line-height: 20px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.login-div {
+  top: 243.55px;
+  left: 145.64px;
+  font-weight: 600;
+  width: 63.94px;
+  height: 23.32px;
+}
+.farm-india-b1 {
+  top: 0;
+  left: 49px;
+  font-size: 35px;
+  color: #fff;
+  width: 267.66px;
+  height: 23px;
+}
+.login-btn-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 355.22px;
+  height: 280.86px;
+  font-size: 16px;
+  color: #2f9000;
+}
+.forgot-password-div {
+  position: absolute;
+  top: 293.68px;
+  left: 182.34px;
+  font-size: 16px;
+  font-weight: 500;
+  display: inline-block;
+  width: 172.87px;
+  height: 23.32px;
+}
+.form-div {
+  position: absolute;
+  top: 285px;
+  left: 640px;
+  width: 355.22px;
+  height: 317px;
+}
+.leaf-icon-symbol-260nw-1106934 {
+  position: absolute;
+  top: 107px;
+  left: 703px;
+  width: 240px;
+  height: 248px;
+  object-fit: cover;
+}
+.rectangle-icon2 {
+  position: absolute;
+  top: 659px;
+  left: 593px;
+  border-radius: 15px;
+  width: 490px;
+  height: 54px;
+}
+.sign-up {
+  color: #00ff47;
+}
+.dont-have-an-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.dont-have-an-account-sign-up {
+  position: absolute;
+  top: 670px;
+  left: 663px;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  font-family: Roboto;
+  display: flex;
+  align-items: center;
+  width: 310.77px;
+  height: 32px;
+}
+.login-page-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  font-family: Montserrat;
+}
