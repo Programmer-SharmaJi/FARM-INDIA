@@ -24,7 +24,7 @@ Farmers must contend with pest and disease outbreaks that can damage or d		     
 
 3.	Market prices and trade policies: 
 
-Farmers are often at the mercy of market prices and trade policies, which can change rapidly and unpredictably, making it difficult to plan for the future and make a living.[4]
+Farmers are often at the mercy of market prices and trade policies, which can change rapidly and unpredictably, making it difficult to plan for the future and make a living
 
 4.	Access to financing and resources:
 
@@ -65,12 +65,12 @@ We will provide one to one guidance program. We will connect farmers to our farm
 
 
 These problems have contributed to a crisis in the Indian agriculture sector and highlight the need for systemic changes to support farmers and improve their livelihoods.
-![image](https://user-images.githubusercontent.com/98697357/232821397-dff4f9f3-667f-4d41-be80-85ef2bd87de2.png)
+
 
 
 
 ## 🌐 Socials:
-[![Discord][![Facebook][![Instagram][![Twitter][![YouTube]
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
