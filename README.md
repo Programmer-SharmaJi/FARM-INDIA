@@ -5,12 +5,14 @@
 
 THE PROJECT IS ABOUT FARMERS, AND WE HELP FARMERS IN DIFFERENT WAYS. 
 
+
 ## ☞  Table of Contents
 1. [About Me](#aboutme)
 2. [Problem Statement](#problemstatement)
 3. [Solution](#solution)
 4. [Installation](#installation)
 5. [FAQs](#faqs)
+
 
 # 💫  About Me:
 
@@ -19,6 +21,8 @@ The agriculture sector is a crucial part of our economy, providing food and live
 Our project aims to address these challenges and empower farmers through a range of innovative solutions. We will be introducing new and improved farming methods, providing access to technology and resources, and improving market linkages for farmers.
 
 Our team has conducted extensive research and identified key problems facing farmers such as poor soil quality, limited access to finance, and lack of information on market prices and trends. To address these problems, we will be implementing a range of innovative solutions, including the introduction of precision agriculture techniques, providing access to low-interest loans, and setting up an online platform to connect farmers with buyers and access real-time market information.
+
+
 
 # ⚠︎ Problem Statement
 
@@ -61,11 +65,13 @@ These problems have contributed to a crisis in the Indian agriculture sector and
 
 
 
+
 ## 🌐  Socials:
 
 * [Youtube](https://Youtube.com)
 * [Linkedin](https://Linkedin.com)
 * [instagram](https://instagram.com)
+
 
 
 # 💻  Tech Stack:
@@ -78,6 +84,7 @@ A list of technologies used within the project:
 * [MySQL](https://MySQL.com): Version 12.66 
 * [Netlify](https://Netlify.com): Version 2.364
 * [NodeJS](https://NodeJS.com): Version 1.4
+
 
 
 ## 🤝  Installation
@@ -96,6 +103,7 @@ $ npm install MySQL
 $ npm import users
 ```
 Note: To use the application in a special environment use ```Any keywords``` to start.
+
 
 
 
